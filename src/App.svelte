@@ -18,6 +18,10 @@
     </div>
 </div>
 
+<footer class="footer">
+    Made with 💗 by&nbsp;<a href="https://snipcart.com">Snipcart</a>&nbsp;with&nbsp;<a href="https://svelte.dev">Svelte</a>&nbsp;and&nbsp;<a href="https://marked.js.org">Marked</a>.
+</footer>
+
 <style>
     .header {
         height: 10vh;
@@ -40,7 +44,7 @@
     .markdown-editor__left-panel, .markdown-editor__right-panel {
         width: 50%;
         border: solid 1px black;
-        height: 90vh;
+        height: 85vh;
     }
 
     .markdown-editor__right-panel {
@@ -60,5 +64,12 @@
     .markdown-editor__output {
         width: 100%;
         padding: 0 2em;
+    }
+
+    .footer {
+        height: 5vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
 </style>
