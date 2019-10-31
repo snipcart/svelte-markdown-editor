@@ -1,6 +1,14 @@
-*Psst  looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
+# Build a Svelte JS App: Magic Framework (Svelte 3 Tutorial)
+
+![svelte](https://snipcart.com/media/204717/svelte.png?width=800&format=webp&quality=80&upscale=false)
+
+> [Read full tutorial](https://snipcart.com/blog/svelte-js-framework-tutorial)
+
+> [See live demo](https://svelte-markdown-editor.netlify.com/)
 
 ---
+
+*PsstÂ looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
 # svelte app
 
